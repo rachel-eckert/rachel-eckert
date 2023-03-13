@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=58A6FF&width=435&lines=Hello+world!;My+name+is+Rachel+Eckert.;Grace+Hopper+Program+Graduate;Full+stack+software+engineer)](https://git.io/typing-svg)
-<h3 align="left">My name is Rachel Eckert and I am a software engineer based out of Northern New Jersey</h3>
+<h3 align="left">Based out of Northern New Jersey</h3>
 
 
 - 🌱 I’m currently learning **Angular, Firebase, and Typescript.**

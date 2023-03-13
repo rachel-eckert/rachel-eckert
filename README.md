@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+## My name is Rachel and I am a software engineer based out of Northern New Jersey.
+![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)]
 <!--
 **rachel-eckert/rachel-eckert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

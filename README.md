@@ -1,13 +1,12 @@
-<h1 align="center">Hi 👋, My name is Rachel</h1>
-<h3 align="center">A software engineer based out of Northern New Jersey</h3>
+<h1 align="center">Hello World 👋</h1>
+<h3 align="center">My name is Rachel Eckert and I am a software engineer based out of Northern New Jersey</h3>
 
 
 - 🌱 I’m currently learning **Angular, Firebase, and Typescript.**
 
-- 👨‍💻 All of my projects are available on my [portfolio](https://racheleckert.onrender.com/)
-
 - 📫 See all my links in one place [here](https://linktr.ee/racheleckert)!
 
+- 👨‍💻 All of my projects are available on my [portfolio](https://racheleckert.onrender.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

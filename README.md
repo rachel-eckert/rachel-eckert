@@ -1,5 +1,5 @@
-<h1 align="center">Hello World 👋</h1>
-<h3 align="center">My name is Rachel Eckert and I am a software engineer based out of Northern New Jersey</h3>
+<h1 align="left">Hello World 👋</h1>
+<h3 align="left">My name is Rachel Eckert and I am a software engineer based out of Northern New Jersey</h3>
 
 
 - 🌱 I’m currently learning **Angular, Firebase, and Typescript.**

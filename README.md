@@ -6,9 +6,8 @@
 
 - 👨‍💻 All of my projects are available at [https://racheleckert.onrender.com/](https://racheleckert.onrender.com/)
 
-- 📫 How to reach me **rachel.eckert13@gmail.com**
+- 📫 See all my links in one place [here](https://linktr.ee/racheleckert)
 
-- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

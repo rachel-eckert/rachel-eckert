@@ -4,9 +4,9 @@
 
 - 🌱 I’m currently learning **Angular, Firebase, and Typescript.**
 
-- 👨‍💻 All of my projects are available at [https://racheleckert.onrender.com/](https://racheleckert.onrender.com/)
+- 👨‍💻 All of my projects are available on my [portfolio](https://racheleckert.onrender.com/)
 
-- 📫 See all my links in one place [here](https://linktr.ee/racheleckert)
+- 📫 See all my links in one place [here](https://linktr.ee/racheleckert)!
 
 
 <h3 align="left">Connect with me:</h3>

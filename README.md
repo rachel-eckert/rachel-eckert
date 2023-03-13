@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=5CDA41&center=true&width=435&lines=Hello+world!;My+name+is+Rachel+Eckert.;Grace+Hopper+Program+Graduate;Full+stack+software+engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=5CDA41&width=435&lines=Hello+world!;My+name+is+Rachel+Eckert.;Grace+Hopper+Program+Graduate;Full+stack+software+engineer)](https://git.io/typing-svg)
 <h3 align="left">My name is Rachel Eckert and I am a software engineer based out of Northern New Jersey</h3>
 
 
